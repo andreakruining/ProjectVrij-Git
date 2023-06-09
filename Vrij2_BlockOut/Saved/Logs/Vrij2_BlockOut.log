@@ -1527,3 +1527,162 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.09-11.17.53:076][129]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/StartScreen_LvlA673BE2542525FAAAE5FB28599345CD4.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/StartScreen_Lvl.umap'
 [2023.06.09-11.17.53:099][129]AssetCheck: New page: Asset Save: StartScreen_Lvl
 [2023.06.09-11.17.53:099][129]LogContentValidation: Display: Validating World /Game/Maps/StartScreen_Lvl.StartScreen_Lvl
+[2023.06.09-11.19.38:723][502]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\afk05\Downloads\forget-me-nots-5302712_1280.jpg)
+[2023.06.09-11.19.38:742][502]LogTexture: Display: Building textures: forget-me-nots-5302712_1280 (BGRA8, 1280X853)
+[2023.06.09-11.19.55:279][364]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.09-11.20.09:561][216]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.09-11.23.25:662][188]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.09-11.23.44:575][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StartScreen" FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/StartScreen.uasset" SILENT=true
+[2023.06.09-11.23.44:581][302]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/StartScreen97252D93485DDE3813A1B89055D6BBBD.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/StartScreen.uasset'
+[2023.06.09-11.23.44:599][302]AssetCheck: New page: Asset Save: StartScreen
+[2023.06.09-11.23.44:599][302]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/StartScreen.StartScreen
+[2023.06.09-11.23.48:391][527]BlueprintLog: New page: Compile StartScreen
+[2023.06.09-11.23.48:445][527]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2023.06.09-11.23.49:071][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StartScreen" FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/StartScreen.uasset" SILENT=true
+[2023.06.09-11.23.49:076][556]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/StartScreenA12AC8D64F103DA92CCC749A2BC7988C.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/StartScreen.uasset'
+[2023.06.09-11.23.49:091][556]AssetCheck: New page: Asset Save: StartScreen
+[2023.06.09-11.23.49:091][556]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/StartScreen.StartScreen
+[2023.06.09-11.23.52:160][738]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.09-11.23.52:167][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-11.23.52:167][738]PIE: New page: PIE session: StartScreen_Lvl (Jun 9, 2023, 3:23:52 PM)
+[2023.06.09-11.23.52:168][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartScreen_Lvl
+[2023.06.09-11.23.52:168][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000812s)
+[2023.06.09-11.23.52:169][738]LogAIModule: Creating AISystem for world StartScreen_Lvl
+[2023.06.09-11.23.52:169][738]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.06.09-11.23.52:169][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartScreen_Lvl.StartScreen_Lvl to /Game/Maps/UEDPIE_0_StartScreen_Lvl.StartScreen_Lvl (0.001648s)
+[2023.06.09-11.23.52:206][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.06.09-11.23.52:206][738]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.09-11.23.52:206][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.09-11.23.52:206][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-11.23.52:207][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-11.23.52:207][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-11.23.52:207][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-11.23.52:207][738]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.09-11.23.52:210][738]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.09-11.23.52:210][738]LogAudioMixer: Display: 1: FrontRight
+[2023.06.09-11.23.52:259][738]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.09-11.23.52:259][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-11.23.52:259][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-11.23.52:259][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-11.23.52:260][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.09-11.23.52:260][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.09-11.23.52:260][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.09-11.23.52:261][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.09-11.23.52:261][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.09-11.23.52:261][738]LogInit: FAudioDevice initialized.
+[2023.06.09-11.23.52:261][738]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartScreen_Lvl'.
+[2023.06.09-11.23.52:268][738]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.09-11.23.52:270][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartScreen_Lvl.StartScreen_Lvl up for play (max tick rate 60) at 2023.06.09-13.23.52
+[2023.06.09-11.23.52:270][738]LogWorld: Bringing up level for play took: 0.000247
+[2023.06.09-11.23.52:270][738]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.06.09-11.23.52:273][738]PIE: Server logged in
+[2023.06.09-11.23.52:274][738]PIE: Play in editor total start time 0.11 seconds.
+[2023.06.09-11.23.54:023][843]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.06.09-11.23.54:024][843]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.06.09-11.23.54:024][843]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartScreen_Lvl
+[2023.06.09-11.23.54:024][843]LogWorld: UWorld::CleanupWorld for StartScreen_Lvl, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.23.54:024][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.54:054][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.23.54:057][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.06.09-11.23.54:066][843]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.06.09-11.23.54:067][843]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.09-11.23.54:067][843]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.09-11.23.54:070][843]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.09-13.23.54
+[2023.06.09-11.23.54:070][843]LogWorld: Bringing up level for play took: 0.002522
+[2023.06.09-11.23.54:071][843]LogBlueprintUserMessages: [TriggerBoxLvl1_BP_2] true
+[2023.06.09-11.23.54:071][843]LogLoad: Took 0.047823 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2023.06.09-11.23.55:429][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.55:429][920]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.09-11.23.55:429][920]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.23.55:429][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.55:439][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-11.23.55:444][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.55:475][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.23.55:475][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.09-11.23.55:477][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.09-11.23.55:490][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.55:494][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.06.09-11.23.55:509][921]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.06.09-11.24.36:341][306]BlueprintLog: New page: Compile StartScreen
+[2023.06.09-11.24.36:379][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.06.09-11.24.36:875][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StartScreen" FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/StartScreen.uasset" SILENT=true
+[2023.06.09-11.24.36:881][330]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/StartScreen95FE1C2C46FA17FEAD0FC59BC201C1BB.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/StartScreen.uasset'
+[2023.06.09-11.24.36:895][330]AssetCheck: New page: Asset Save: StartScreen
+[2023.06.09-11.24.36:895][330]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/StartScreen.StartScreen
+[2023.06.09-11.24.38:741][440]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.09-11.24.38:749][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-11.24.38:749][440]PIE: New page: PIE session: StartScreen_Lvl (Jun 9, 2023, 3:24:38 PM)
+[2023.06.09-11.24.38:749][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartScreen_Lvl
+[2023.06.09-11.24.38:750][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000896s)
+[2023.06.09-11.24.38:750][440]LogAIModule: Creating AISystem for world StartScreen_Lvl
+[2023.06.09-11.24.38:751][440]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2023.06.09-11.24.38:751][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartScreen_Lvl.StartScreen_Lvl to /Game/Maps/UEDPIE_0_StartScreen_Lvl.StartScreen_Lvl (0.001776s)
+[2023.06.09-11.24.38:786][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.06.09-11.24.38:787][440]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.09-11.24.38:787][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-11.24.38:787][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-11.24.38:787][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-11.24.38:787][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-11.24.38:787][440]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.09-11.24.38:790][440]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.09-11.24.38:790][440]LogAudioMixer: Display: 1: FrontRight
+[2023.06.09-11.24.38:841][440]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.09-11.24.38:841][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-11.24.38:841][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-11.24.38:842][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-11.24.38:842][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.09-11.24.38:842][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.09-11.24.38:842][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.09-11.24.38:844][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.09-11.24.38:844][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.09-11.24.38:844][440]LogInit: FAudioDevice initialized.
+[2023.06.09-11.24.38:844][440]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartScreen_Lvl'.
+[2023.06.09-11.24.38:852][440]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.09-11.24.38:854][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartScreen_Lvl.StartScreen_Lvl up for play (max tick rate 60) at 2023.06.09-13.24.38
+[2023.06.09-11.24.38:854][440]LogWorld: Bringing up level for play took: 0.000278
+[2023.06.09-11.24.38:854][440]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.06.09-11.24.38:856][440]PIE: Server logged in
+[2023.06.09-11.24.38:857][440]PIE: Play in editor total start time 0.112 seconds.
+[2023.06.09-11.24.41:687][610]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.06.09-11.24.41:687][610]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.06.09-11.24.41:687][610]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartScreen_Lvl
+[2023.06.09-11.24.41:687][610]LogWorld: UWorld::CleanupWorld for StartScreen_Lvl, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.24.41:687][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.24.41:743][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.24.41:746][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.06.09-11.24.41:755][610]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.06.09-11.24.41:756][610]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.09-11.24.41:757][610]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.09-11.24.41:759][610]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.09-13.24.41
+[2023.06.09-11.24.41:760][610]LogWorld: Bringing up level for play took: 0.001971
+[2023.06.09-11.24.41:760][610]LogBlueprintUserMessages: [TriggerBoxLvl1_BP_2] true
+[2023.06.09-11.24.41:760][610]LogLoad: Took 0.073893 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2023.06.09-11.24.45:338][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.24.45:338][820]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.09-11.24.45:338][820]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.24.45:339][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.24.45:351][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-11.24.45:357][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.24.45:387][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.24.45:387][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.09-11.24.45:388][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.09-11.24.45:402][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.24.45:405][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.06.09-11.24.45:426][821]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.06.09-11.24.48:768][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.06.09-11.24.48:774][ 14]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/StartScreen_Lvl241B2583461DCED0998593B2A23E439F.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/StartScreen_Lvl.umap'
+[2023.06.09-11.24.48:797][ 14]AssetCheck: New page: Asset Save: StartScreen_Lvl
+[2023.06.09-11.24.48:797][ 14]LogContentValidation: Display: Validating World /Game/Maps/StartScreen_Lvl.StartScreen_Lvl
