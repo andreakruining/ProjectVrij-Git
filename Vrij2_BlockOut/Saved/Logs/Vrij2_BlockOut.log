@@ -9204,3 +9204,512 @@ TriggerBoxLvl1_BP
 [2023.06.15-15.37.26:496][995]LogContentValidation: Display: Validating Blueprint /Game/Maps/TriggerBox_Blueprint.TriggerBox_Blueprint
 [2023.06.15-15.37.26:496][995]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flower_Blueprint.Flower_Blueprint
 [2023.06.15-15.37.26:496][995]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint
+[2023.06.15-15.37.53:120][116]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.15-15.37.53:174][116]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-15.37.53:174][116]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-16.12.55:204][117]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.15-16.12.55:262][117]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-16.12.55:262][117]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-16.12.58:471][124]LogHttp: Warning: 000001BDCC48C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5B4DAB7-430E-19E0-CA8C-28A4FD78455F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1e36c5b74c94467fc83cd5939627c82b%7C020f1215705e44da927a85d26e95f386%7Cf9766571-ed39-4e55-a1b6-aee686f901b9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bbbaf8e0e0 [can pipeline])
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 1 (Re-using existing connection! (#74) with host datarouter.ol.epicgames.com)
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.213.19.18) port 443 (#74))
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.15-16.12.58:473][124]LogHttp: Warning: 000001BDCC48C100: libcurl info message cache 7 (Closing connection 74)
+[2023.06.15-16.12.58:477][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF5B4DAB7-430E-19E0-CA8C-28A4FD78455F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1e36c5b74c94467fc83cd5939627c82b%7C020f1215705e44da927a85d26e95f386%7Cf9766571-ed39-4e55-a1b6-aee686f901b9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.15-16.13.44:663][555]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.06.15-16.14.35:251][470]BlueprintLog: New page: Compile choiceStart_BP
+[2023.06.15-16.14.35:300][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.06.15-16.16.37:301][745]LogEditorViewport: Clicking on Actor (context menu): picnic_table_Blueprint_C (picnic_table_Blueprint)
+[2023.06.15-16.16.38:802][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (girl__2_)
+[2023.06.15-16.18.27:598][898]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.06.15-16.18.32:757][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.06.15-16.18.32:855][409]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/choiceAHub.choiceAHub
+[2023.06.15-16.18.32:856][409]Cmd: MAP LOAD FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.15-16.18.32:856][409]LightingResults: New page: Lighting Build
+[2023.06.15-16.18.32:856][409]LoadErrors: New page: Loading map: choiceAHub.umap
+[2023.06.15-16.18.32:902][409]LogWorld: UWorld::CleanupWorld for choiceBHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.18.32:902][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.18.32:902][409]MapCheck: New page: Map Check
+[2023.06.15-16.18.32:903][409]LightingResults: New page: Lighting Build
+[2023.06.15-16.18.32:930][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-16.18.32:937][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.06.15-16.18.32:938][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'choiceAHub'.
+[2023.06.15-16.18.33:049][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.15-16.18.33:049][409]LogAIModule: Creating AISystem for world choiceAHub
+[2023.06.15-16.18.33:078][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.06.15-16.18.33:091][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.15-16.18.33:091][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2023.06.15-16.18.33:091][409]LogFileHelpers: Loading map 'choiceAHub' took 0.237
+[2023.06.15-16.18.35:126][636]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.15-16.18.35:134][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-16.18.35:135][636]PIE: New page: PIE session: choiceAHub (Jun 15, 2023, 8:18:35 PM)
+[2023.06.15-16.18.35:144][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_choiceAHub
+[2023.06.15-16.18.35:152][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008191s)
+[2023.06.15-16.18.35:152][636]LogAIModule: Creating AISystem for world choiceAHub
+[2023.06.15-16.18.35:153][636]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2023.06.15-16.18.35:153][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/choiceAHub.choiceAHub to /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub (0.009188s)
+[2023.06.15-16.18.35:181][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.06.15-16.18.35:182][636]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-16.18.35:182][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-16.18.35:182][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.15-16.18.35:182][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.15-16.18.35:182][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.15-16.18.35:182][636]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-16.18.35:186][636]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-16.18.35:186][636]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-16.18.35:247][636]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.15-16.18.35:247][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-16.18.35:247][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-16.18.35:247][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-16.18.35:249][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-16.18.35:249][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-16.18.35:249][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-16.18.35:250][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-16.18.35:250][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-16.18.35:250][636]LogInit: FAudioDevice initialized.
+[2023.06.15-16.18.35:250][636]LogAudio: Display: Audio Device (ID: 43) registered with world 'choiceAHub'.
+[2023.06.15-16.18.35:260][636]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.15-16.18.35:261][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub up for play (max tick rate 0) at 2023.06.15-18.18.35
+[2023.06.15-16.18.35:262][636]LogWorld: Bringing up level for play took: 0.000823
+[2023.06.15-16.18.35:262][636]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2023.06.15-16.18.35:265][636]LogScript: Warning: Accessed None trying to read property objectsAhub
+	Flower_Blueprint_C /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub:PersistentLevel.Flower_Blueprint
+	Function /Game/Blueprints/Flower_Blueprint.Flower_Blueprint_C:ExecuteUbergraph_Flower_Blueprint:0084
+[2023.06.15-16.18.35:265][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property objectsAhub". Blueprint:  Flower_Blueprint Function:  Execute Ubergraph Flower Blueprint Graph:  EventGraph Node:  Set Visibility
+[2023.06.15-16.18.35:265][636]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Flower_Blueprint_C /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub:PersistentLevel.Flower_Blueprint
+	Function /Game/Blueprints/Flower_Blueprint.Flower_Blueprint_C:ExecuteUbergraph_Flower_Blueprint:00A5
+[2023.06.15-16.18.35:265][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Flower_Blueprint Function:  Execute Ubergraph Flower Blueprint Graph:  EventGraph Node:  Set Visibility
+[2023.06.15-16.18.35:265][636]PIE: Server logged in
+[2023.06.15-16.18.35:266][636]PIE: Play in editor total start time 0.135 seconds.
+[2023.06.15-16.18.44:301][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-16.18.44:301][694]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_choiceAHub
+[2023.06.15-16.18.44:301][694]LogWorld: UWorld::CleanupWorld for choiceAHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.18.44:301][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.18.44:325][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-16.18.44:328][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.18.44:354][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-16.18.44:354][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-16.18.44:356][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-16.18.44:376][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-16.18.44:379][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.06.15-16.18.44:437][695]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.06.15-16.20.48:010][ 98]BlueprintLog: New page: Compile Flower_Blueprint
+[2023.06.15-16.20.48:056][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.06.15-16.20.49:169][212]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Flower_Blueprint2D89D4AF4AE7A462617EC394F8BBB695.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/Flower_Blueprint.uasset'
+[2023.06.15-16.20.49:187][212]AssetCheck: New page: Asset Save: Flower_Blueprint
+[2023.06.15-16.20.49:187][212]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flower_Blueprint.Flower_Blueprint
+[2023.06.15-16.21.03:825][783]LogEditorViewport: Clicking on Actor (LMB): Emitter (ringPulse_PE)
+[2023.06.15-16.21.26:748][193]Cmd: DELETE
+[2023.06.15-16.21.26:748][193]Cmd: ACTOR DELETE
+[2023.06.15-16.21.26:750][193]LogEditorActor: Deleted Actor: Emitter
+[2023.06.15-16.21.26:780][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.06.15-16.21.26:782][193]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.06.15-16.22.22:975][882]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.15-16.22.22:984][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-16.22.22:984][882]PIE: New page: PIE session: choiceAHub (Jun 15, 2023, 8:22:22 PM)
+[2023.06.15-16.22.23:019][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_choiceAHub
+[2023.06.15-16.22.23:027][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008161s)
+[2023.06.15-16.22.23:028][882]LogAIModule: Creating AISystem for world choiceAHub
+[2023.06.15-16.22.23:028][882]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2023.06.15-16.22.23:028][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/choiceAHub.choiceAHub to /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub (0.009369s)
+[2023.06.15-16.22.23:059][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.06.15-16.22.23:062][882]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-16.22.23:062][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-16.22.23:062][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.15-16.22.23:062][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.15-16.22.23:062][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.15-16.22.23:062][882]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-16.22.23:065][882]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-16.22.23:065][882]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-16.22.23:125][882]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.15-16.22.23:126][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-16.22.23:126][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-16.22.23:126][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-16.22.23:126][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-16.22.23:126][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-16.22.23:126][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-16.22.23:127][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-16.22.23:127][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-16.22.23:127][882]LogInit: FAudioDevice initialized.
+[2023.06.15-16.22.23:127][882]LogAudio: Display: Audio Device (ID: 44) registered with world 'choiceAHub'.
+[2023.06.15-16.22.23:135][882]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.15-16.22.23:136][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub up for play (max tick rate 0) at 2023.06.15-18.22.23
+[2023.06.15-16.22.23:138][882]LogWorld: Bringing up level for play took: 0.000956
+[2023.06.15-16.22.23:138][882]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2023.06.15-16.22.23:140][882]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Flower_Blueprint_C /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub:PersistentLevel.Flower_Blueprint
+	Function /Game/Blueprints/Flower_Blueprint.Flower_Blueprint_C:ExecuteUbergraph_Flower_Blueprint:01A1
+[2023.06.15-16.22.23:140][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Flower_Blueprint Function:  Execute Ubergraph Flower Blueprint Graph:  EventGraph Node:  Spawn Emitter at Location
+[2023.06.15-16.22.23:140][882]PIE: Server logged in
+[2023.06.15-16.22.23:141][882]PIE: Play in editor total start time 0.16 seconds.
+[2023.06.15-16.22.24:970][ 95]LogScript: Warning: Accessed None trying to read property objectsAhub
+	Flower_Blueprint_C /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub:PersistentLevel.Flower_Blueprint
+	Function /Game/Blueprints/Flower_Blueprint.Flower_Blueprint_C:ExecuteUbergraph_Flower_Blueprint:005E
+[2023.06.15-16.22.24:971][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property objectsAhub". Blueprint:  Flower_Blueprint Function:  Execute Ubergraph Flower Blueprint Graph:  EventGraph Node:  Set Visibility
+[2023.06.15-16.22.24:971][ 95]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	Flower_Blueprint_C /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub:PersistentLevel.Flower_Blueprint
+	Function /Game/Blueprints/Flower_Blueprint.Flower_Blueprint_C:ExecuteUbergraph_Flower_Blueprint:007F
+[2023.06.15-16.22.24:971][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  Flower_Blueprint Function:  Execute Ubergraph Flower Blueprint Graph:  EventGraph Node:  Set Visibility
+[2023.06.15-16.22.27:853][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-16.22.27:853][433]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_choiceAHub
+[2023.06.15-16.22.27:853][433]LogWorld: UWorld::CleanupWorld for choiceAHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.22.27:853][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.22.27:872][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-16.22.27:876][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.22.27:905][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-16.22.27:905][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-16.22.27:906][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-16.22.27:929][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.15-16.22.27:983][434]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.06.15-16.23.41:430][627]LogEditorViewport: Clicking on Actor (LMB): gravestone_Cube_001_dmg_Blueprint_C (gravestone_Cube_001_dmg_Blueprint)
+[2023.06.15-16.24.17:460][376]BlueprintLog: New page: Compile Flower_Blueprint
+[2023.06.15-16.24.17:519][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.06.15-16.24.19:755][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.06.15-16.24.19:777][605]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub03651AB6457242EF82931BAF2AA8EC75.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub.umap'
+[2023.06.15-16.24.19:814][605]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub_BuiltData7A7347ED4B269556EF7A0792F3E138D7.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub_BuiltData.uasset'
+[2023.06.15-16.24.19:829][605]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.15-16.24.19:829][605]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/choiceAHub_BuiltData.choiceAHub_BuiltData
+[2023.06.15-16.24.19:829][605]LogContentValidation: Display: Validating World /Game/Maps/choiceAHub.choiceAHub
+[2023.06.15-16.24.36:260][291]EditorErrors: New page: Actor attachment
+[2023.06.15-16.24.39:203][621]Cmd: TRANSACTION UNDO
+[2023.06.15-16.24.39:203][621]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.15-16.24.40:122][682]Cmd: TRANSACTION UNDO
+[2023.06.15-16.24.40:122][682]LogEditorTransaction: Undo Detach actors
+[2023.06.15-16.24.51:433][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.06.15-16.24.51:455][818]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub2654D7894C50F983C8CBBF96F7272F87.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub.umap'
+[2023.06.15-16.24.51:486][818]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub_BuiltData2D7113144DE36D4BC6C4D0A2AB5A8198.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub_BuiltData.uasset'
+[2023.06.15-16.24.51:500][818]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.15-16.24.51:500][818]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/choiceAHub_BuiltData.choiceAHub_BuiltData
+[2023.06.15-16.24.51:500][818]LogContentValidation: Display: Validating World /Game/Maps/choiceAHub.choiceAHub
+[2023.06.15-16.24.52:892][960]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.15-16.24.52:902][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.15-16.24.52:902][960]PIE: New page: PIE session: choiceAHub (Jun 15, 2023, 8:24:52 PM)
+[2023.06.15-16.24.52:948][960]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_choiceAHub
+[2023.06.15-16.24.52:956][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007856s)
+[2023.06.15-16.24.52:957][960]LogAIModule: Creating AISystem for world choiceAHub
+[2023.06.15-16.24.52:957][960]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2023.06.15-16.24.52:957][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/choiceAHub.choiceAHub to /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub (0.008991s)
+[2023.06.15-16.24.52:985][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.06.15-16.24.52:985][960]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.15-16.24.52:985][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.15-16.24.52:985][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.15-16.24.52:986][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.15-16.24.52:986][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.15-16.24.52:986][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.15-16.24.52:986][960]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.15-16.24.52:989][960]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-16.24.52:989][960]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-16.24.53:048][960]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.15-16.24.53:049][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.15-16.24.53:049][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.15-16.24.53:049][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.15-16.24.53:049][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.15-16.24.53:049][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.15-16.24.53:049][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.15-16.24.53:050][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.15-16.24.53:050][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.15-16.24.53:050][960]LogInit: FAudioDevice initialized.
+[2023.06.15-16.24.53:050][960]LogAudio: Display: Audio Device (ID: 45) registered with world 'choiceAHub'.
+[2023.06.15-16.24.53:059][960]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.15-16.24.53:061][960]LogWorld: Bringing World /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub up for play (max tick rate 0) at 2023.06.15-18.24.53
+[2023.06.15-16.24.53:061][960]LogWorld: Bringing up level for play took: 0.000705
+[2023.06.15-16.24.53:061][960]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2023.06.15-16.24.53:064][960]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Flower_Blueprint_C /Game/Maps/UEDPIE_0_choiceAHub.choiceAHub:PersistentLevel.Flower_Blueprint
+	Function /Game/Blueprints/Flower_Blueprint.Flower_Blueprint_C:ExecuteUbergraph_Flower_Blueprint:01A1
+[2023.06.15-16.24.53:064][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Flower_Blueprint Function:  Execute Ubergraph Flower Blueprint Graph:  EventGraph Node:  Spawn Emitter at Location
+[2023.06.15-16.24.53:064][960]PIE: Server logged in
+[2023.06.15-16.24.53:065][960]PIE: Play in editor total start time 0.167 seconds.
+[2023.06.15-16.24.56:877][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-16.24.56:877][408]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_choiceAHub
+[2023.06.15-16.24.56:877][408]LogWorld: UWorld::CleanupWorld for choiceAHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.24.56:878][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.24.56:893][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.15-16.24.56:908][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.24.56:933][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.15-16.24.56:934][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-16.24.56:935][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.15-16.24.56:958][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.15-16.24.57:017][409]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.06.15-16.26.11:697][146]BlueprintLog: New page: Compile Flower_Blueprint
+[2023.06.15-16.26.11:700][146]LogBlueprint: Error: [AssetLog] C:\Users\afk05\school\unity projects\ProjectVrij-Git\Vrij2_BlockOut\Content\Blueprints\Flower_Blueprint.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2023.06.15-16.26.11:700][146]LogBlueprint: Error: [AssetLog] C:\Users\afk05\school\unity projects\ProjectVrij-Git\Vrij2_BlockOut\Content\Blueprints\Flower_Blueprint.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.06.15-16.26.11:743][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.06.15-16.26.48:376][291]BlueprintLog: New page: Compile Flower_Blueprint
+[2023.06.15-16.26.48:426][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.15-16.28.01:777][338]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceStart_BP278DF72C4DD79E76B679B6A061E994A0.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/choiceStart_BP.uasset'
+[2023.06.15-16.28.01:791][338]AssetCheck: New page: Asset Save: choiceStart_BP
+[2023.06.15-16.28.01:791][338]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/choiceStart_BP.choiceStart_BP
+[2023.06.15-16.29.21:939][644]BlueprintLog: New page: Compile tb_soldier_ping_Blueprint
+[2023.06.15-16.29.21:989][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.15-16.29.22:872][737]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_soldier_ping_BlueprintC2EE70BD4891DA15E13E7CBFDAC4C823.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/tb_soldier_ping_Blueprint.uasset'
+[2023.06.15-16.29.22:885][737]AssetCheck: New page: Asset Save: tb_soldier_ping_Blueprint
+[2023.06.15-16.29.22:885][737]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint
+[2023.06.15-16.29.29:533][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.15-16.29.29:555][480]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub65E22A43468FE1475654A9B7D778786C.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub.umap'
+[2023.06.15-16.29.29:581][480]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub_BuiltData13567ECA4ECE128BA6A4168E6BBC26B0.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub_BuiltData.uasset'
+[2023.06.15-16.29.29:595][480]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.15-16.29.29:595][480]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/choiceAHub_BuiltData.choiceAHub_BuiltData
+[2023.06.15-16.29.29:595][480]LogContentValidation: Display: Validating World /Game/Maps/choiceAHub.choiceAHub
+[2023.06.15-16.29.37:421][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.06.15-16.29.38:699][313]LogSlate: Window 'Save Content' being destroyed
+[2023.06.15-16.29.38:838][313]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Flower_BlueprintEF7208A344F118B72D241ABB01A2852A.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/Flower_Blueprint.uasset'
+[2023.06.15-16.29.38:985][313]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/echoHub.echoHub
+[2023.06.15-16.29.38:985][313]Cmd: MAP LOAD FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.15-16.29.38:985][313]LightingResults: New page: Lighting Build
+[2023.06.15-16.29.38:985][313]LoadErrors: New page: Loading map: echoHub.umap
+[2023.06.15-16.29.39:031][313]LogWorld: UWorld::CleanupWorld for choiceAHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.29.39:031][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.29.39:031][313]MapCheck: New page: Map Check
+[2023.06.15-16.29.39:033][313]LightingResults: New page: Lighting Build
+[2023.06.15-16.29.39:059][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.15-16.29.39:065][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.06.15-16.29.39:066][313]LogAudio: Display: Audio Device (ID: 1) registered with world 'echoHub'.
+[2023.06.15-16.29.39:241][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.15-16.29.39:241][313]LogAIModule: Creating AISystem for world echoHub
+[2023.06.15-16.29.39:270][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.15-16.29.39:282][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.15-16.29.39:282][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2023.06.15-16.29.39:282][313]LogFileHelpers: Loading map 'echoHub' took 0.297
+[2023.06.15-16.29.39:312][313]AssetCheck: New page: Asset Save: Flower_Blueprint
+[2023.06.15-16.29.39:312][313]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flower_Blueprint.Flower_Blueprint
+[2023.06.15-16.31.05:651][776]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9e83d530-0827-49bb-95ed-9d88e4d0a071}.
+[2023.06.15-16.31.05:651][776]LogAudioMixer: Resetting audio stream to device id 
+[2023.06.15-16.31.05:714][776]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.15-16.31.05:715][776]LogAudioMixer: Display: 1: FrontRight
+[2023.06.15-16.33.50:044][731]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.33.50:050][731]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.33.53:461][731]LogSlate: Window 'Select Path' being destroyed
+[2023.06.15-16.33.54:442][731]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.34.02:980][303]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.15-16.34.03:030][303]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.15-16.34.28:051][364]LogContentBrowser: Attempting asset rename: NewFolder -> triggerpeople_Blueprints
+[2023.06.15-16.34.28:065][364]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.15-16.34.49:188][881]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.06.15-16.35.13:458][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:458][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint_C' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:458][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:458][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:458][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.SKEL_Tb_Cylinder1_Blueprint_C' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:458][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:464][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.SKEL_Tb_Cylinder1_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:464][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.SKEL_Tb_Cylinder1_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:464][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.SKEL_Tb_Cylinder1_Blueprint_C:BndEvt__Tb_Cylinder1_Blueprint_CollisionComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:464][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.SKEL_Tb_Cylinder1_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:464][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.SKEL_Tb_Cylinder1_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Tb_Cylinder1_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:471][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:471][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint_C' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:472][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:472][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.SKEL_Tb_Cylinder2_Blueprint_C' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.SKEL_Tb_Cylinder2_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.SKEL_Tb_Cylinder2_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.SKEL_Tb_Cylinder2_Blueprint_C:BndEvt__Tb_Cylinder1_Blueprint_CollisionComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.SKEL_Tb_Cylinder2_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:473][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.SKEL_Tb_Cylinder2_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Tb_Cylinder2_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.SKEL_tb_girl_ping_Blueprint_C' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint_C' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.SKEL_tb_girl_ping_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.SKEL_tb_girl_ping_Blueprint_C:BndEvt__tb_girl_ping_Blueprint_CollisionComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.SKEL_tb_girl_ping_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.SKEL_tb_girl_ping_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:479][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.SKEL_tb_girl_ping_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/tb_girl_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.SKEL_tb_soldier_ping_Blueprint_C' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint_C' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.SKEL_tb_soldier_ping_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.SKEL_tb_soldier_ping_Blueprint_C:BndEvt__tb_girl_ping_Blueprint_CollisionComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.SKEL_tb_soldier_ping_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.SKEL_tb_soldier_ping_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:483][729]LogMetaData: Removing '/Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.SKEL_tb_soldier_ping_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/tb_soldier_ping_Blueprint.PackageMetaData'
+[2023.06.15-16.35.13:584][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Tb_Cylinder1_BlueprintC93A94B948A28E22BFD53FB128F3AD3F.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.uasset'
+[2023.06.15-16.35.13:592][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Tb_Cylinder1_BlueprintEECED93642375EF11961A79FAC65DD6D.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/Tb_Cylinder1_Blueprint.uasset'
+[2023.06.15-16.35.13:606][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Tb_Cylinder2_BlueprintD7C294494AA43AF9FBC82BA0841AAE76.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.uasset'
+[2023.06.15-16.35.13:609][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Tb_Cylinder2_Blueprint0053872748CEDF878211A7BF62C6BB08.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/Tb_Cylinder2_Blueprint.uasset'
+[2023.06.15-16.35.13:620][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_girl_ping_Blueprint5C4B21DE4402DB24B50BA691180290A9.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.uasset'
+[2023.06.15-16.35.13:624][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_girl_ping_Blueprint97C6F4614CEAB0E68AFAF386538A1B5A.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/tb_girl_ping_Blueprint.uasset'
+[2023.06.15-16.35.13:635][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_soldier_ping_Blueprint91AC6E3644CF2EBFF1FF95810C1B6BFE.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.uasset'
+[2023.06.15-16.35.13:638][729]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_soldier_ping_BlueprintBEB117B1418D06E9FCC38DBC170F211D.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/tb_soldier_ping_Blueprint.uasset'
+[2023.06.15-16.35.13:736][729]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/tb_soldier_ping_Blueprint.Default__tb_soldier_ping_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/tb_girl_ping_Blueprint.Default__tb_girl_ping_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Tb_Cylinder2_Blueprint.Default__Tb_Cylinder2_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Tb_Cylinder2_Blueprint.Tb_Cylinder2_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Tb_Cylinder1_Blueprint.Default__Tb_Cylinder1_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Tb_Cylinder1_Blueprint.Tb_Cylinder1_Blueprint_C
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint
+[2023.06.15-16.35.13:736][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint
+[2023.06.15-16.35.51:918][649]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.35.51:979][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.06.15-16.35.52:054][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.06.15-16.36.35:108][ 86]BlueprintLog: New page: Compile tb_soldier_ping_Blueprint
+[2023.06.15-16.36.35:160][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.06.15-16.36.36:167][194]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_soldier_ping_BlueprintC8872DC141773F66A4450FBB6FCD6AB0.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.uasset'
+[2023.06.15-16.36.36:186][194]AssetCheck: New page: Asset Save: tb_soldier_ping_Blueprint
+[2023.06.15-16.36.36:186][194]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/tb_soldier_ping_Blueprint.tb_soldier_ping_Blueprint
+[2023.06.15-16.37.56:425][357]BlueprintLog: New page: Compile Flower_Blueprint
+[2023.06.15-16.37.56:477][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.06.15-16.37.57:361][448]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Flower_Blueprint616AE3E544C3C0669866E78621E363EA.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/Flower_Blueprint.uasset'
+[2023.06.15-16.37.57:374][448]AssetCheck: New page: Asset Save: Flower_Blueprint
+[2023.06.15-16.37.57:374][448]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flower_Blueprint.Flower_Blueprint
+[2023.06.15-16.37.59:239][667]BlueprintLog: New page: Compile tb_girl_ping_Blueprint
+[2023.06.15-16.37.59:288][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.06.15-16.38.00:152][757]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/tb_girl_ping_BlueprintF7D6A7C745E09C0DDB55C29BF05C320B.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.uasset'
+[2023.06.15-16.38.00:167][757]AssetCheck: New page: Asset Save: tb_girl_ping_Blueprint
+[2023.06.15-16.38.00:167][757]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/tb_girl_ping_Blueprint.tb_girl_ping_Blueprint
+[2023.06.15-16.38.05:158][219]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2023.06.15-16.38.52:532][ 50]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2023.06.15-16.38.52:616][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.15-16.38.53:580][114]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox_Blueprint0CB831DB4A59C271B366F985DE592402.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox_Blueprint.uasset'
+[2023.06.15-16.38.53:597][114]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.06.15-16.38.53:597][114]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.06.15-16.38.56:212][310]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2023.06.15-16.38.56:226][310]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.38.56:226][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.39.07:924][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.15-16.39.08:052][609]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2023.06.15-16.39.18:173][708]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.39.18:178][708]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.39.20:883][708]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.39.20:929][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.06.15-16.39.21:001][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox2_Blueprint.TriggerBox2_Blueprint
+[2023.06.15-16.40.05:962][697]BlueprintLog: New page: Compile TriggerBox2_Blueprint
+[2023.06.15-16.40.06:037][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.06.15-16.40.10:421][980]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox2_Blueprint7AEA7D9847B95449DCF9B3B0486A6925.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox2_Blueprint.uasset'
+[2023.06.15-16.40.10:439][980]AssetCheck: New page: Asset Save: TriggerBox2_Blueprint
+[2023.06.15-16.40.10:439][980]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox2_Blueprint.TriggerBox2_Blueprint
+[2023.06.15-16.40.11:724][ 62]LogSlate: Window 'TriggerBox2_Blueprint' being destroyed
+[2023.06.15-16.40.11:736][ 62]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.40.11:736][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.40.15:094][385]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.40.15:098][385]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.40.17:318][385]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.40.17:371][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.06.15-16.40.17:442][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox3_Blueprint.TriggerBox3_Blueprint
+[2023.06.15-16.40.54:451][159]BlueprintLog: New page: Compile TriggerBox3_Blueprint
+[2023.06.15-16.40.54:546][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.06.15-16.40.56:544][268]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox3_BlueprintC986D61D499C3DEA291A229ACC990F07.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox3_Blueprint.uasset'
+[2023.06.15-16.40.56:562][268]AssetCheck: New page: Asset Save: TriggerBox3_Blueprint
+[2023.06.15-16.40.56:562][268]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox3_Blueprint.TriggerBox3_Blueprint
+[2023.06.15-16.40.57:596][331]LogSlate: Window 'TriggerBox3_Blueprint' being destroyed
+[2023.06.15-16.40.57:611][331]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.40.57:611][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.41.03:293][906]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.41.03:297][906]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.41.05:868][906]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.41.05:912][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.06.15-16.41.05:981][906]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox4_Blueprint.TriggerBox4_Blueprint
+[2023.06.15-16.41.31:486][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.06.15-16.41.31:520][179]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/echoHub_Auto09D1906F645C816582B3436A19ED471C5.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Autosaves/Game/Maps/echoHub_Auto0.umap'
+[2023.06.15-16.41.31:522][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/echoHub' took 0.078
+[2023.06.15-16.41.31:522][179]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2023.06.15-16.42.01:413][ 72]BlueprintLog: New page: Compile TriggerBox4_Blueprint
+[2023.06.15-16.42.01:493][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.06.15-16.42.02:504][125]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox4_Blueprint5678E15D450AF251910FD9B67D9DD2E7.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox4_Blueprint.uasset'
+[2023.06.15-16.42.02:522][125]AssetCheck: New page: Asset Save: TriggerBox4_Blueprint
+[2023.06.15-16.42.02:522][125]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox4_Blueprint.TriggerBox4_Blueprint
+[2023.06.15-16.42.05:346][302]LogSlate: Window 'TriggerBox4_Blueprint' being destroyed
+[2023.06.15-16.42.05:359][302]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.42.05:359][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.43.50:220][550]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.43.50:227][550]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.43.55:076][550]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.43.55:131][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.06.15-16.43.55:202][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox8_Blueprint.TriggerBox8_Blueprint
+[2023.06.15-16.45.07:632][209]BlueprintLog: New page: Compile TriggerBox8_Blueprint
+[2023.06.15-16.45.07:709][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.06.15-16.45.08:659][272]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox8_BlueprintABB81B304AB4A6C41D02BD957745F421.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox8_Blueprint.uasset'
+[2023.06.15-16.45.08:677][272]AssetCheck: New page: Asset Save: TriggerBox8_Blueprint
+[2023.06.15-16.45.08:678][272]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox8_Blueprint.TriggerBox8_Blueprint
+[2023.06.15-16.45.10:053][374]LogSlate: Window 'TriggerBox8_Blueprint' being destroyed
+[2023.06.15-16.45.10:065][374]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.45.10:065][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.45.17:657][175]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.45.17:662][175]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.45.20:286][175]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.45.20:338][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.06.15-16.45.20:406][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox7_Blueprint.TriggerBox7_Blueprint
+[2023.06.15-16.45.46:272][799]BlueprintLog: New page: Compile TriggerBox7_Blueprint
+[2023.06.15-16.45.46:356][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.06.15-16.45.47:663][873]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox7_BlueprintB289591840A447A0FD2A4985EB580764.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox7_Blueprint.uasset'
+[2023.06.15-16.45.47:681][873]AssetCheck: New page: Asset Save: TriggerBox7_Blueprint
+[2023.06.15-16.45.47:681][873]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox7_Blueprint.TriggerBox7_Blueprint
+[2023.06.15-16.45.50:363][ 40]LogSlate: Window 'TriggerBox7_Blueprint' being destroyed
+[2023.06.15-16.45.50:376][ 40]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.45.50:376][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.45.53:887][382]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.45.53:892][382]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.45.56:051][382]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.45.56:102][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.06.15-16.45.56:175][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox6_Blueprint.TriggerBox6_Blueprint
+[2023.06.15-16.46.30:217][528]BlueprintLog: New page: Compile TriggerBox6_Blueprint
+[2023.06.15-16.46.30:300][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.15-16.46.31:250][581]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox6_Blueprint6D23D8254A42D089495DEB9F53A9F0B0.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox6_Blueprint.uasset'
+[2023.06.15-16.46.31:267][581]AssetCheck: New page: Asset Save: TriggerBox6_Blueprint
+[2023.06.15-16.46.31:267][581]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox6_Blueprint.TriggerBox6_Blueprint
+[2023.06.15-16.46.32:635][668]LogSlate: Window 'TriggerBox6_Blueprint' being destroyed
+[2023.06.15-16.46.32:649][668]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.46.32:649][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.46.35:970][981]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.15-16.46.35:975][981]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.06.15-16.46.46:645][981]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.06.15-16.46.46:702][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.06.15-16.46.46:774][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox5_Blueprint.TriggerBox5_Blueprint
+[2023.06.15-16.47.17:717][942]LogEditorTransaction: Undo Replace Pin Variable
+[2023.06.15-16.47.23:221][248]BlueprintLog: New page: Compile TriggerBox5_Blueprint
+[2023.06.15-16.47.23:298][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.06.15-16.47.24:441][309]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/TriggerBox5_Blueprint97D4B92340BBDE4FA3721BA94E9C93CE.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Blueprints/triggerpeople_Blueprints/TriggerBox5_Blueprint.uasset'
+[2023.06.15-16.47.24:461][309]AssetCheck: New page: Asset Save: TriggerBox5_Blueprint
+[2023.06.15-16.47.24:461][309]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/triggerpeople_Blueprints/TriggerBox5_Blueprint.TriggerBox5_Blueprint
+[2023.06.15-16.47.29:491][620]LogSlate: Window 'TriggerBox5_Blueprint' being destroyed
+[2023.06.15-16.47.29:536][620]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.06.15-16.47.29:536][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.15-16.47.33:048][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.06.15-16.47.33:083][979]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/echoHubBCEF0E654031CE3AE894A1A4C4C844D4.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub.umap'
+[2023.06.15-16.47.33:101][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/echoHub_BuiltData" FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub_BuiltData.uasset" SILENT=true
+[2023.06.15-16.47.33:116][979]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/echoHub_BuiltDataA909F2544A35BA2480D82A8509DE1BB0.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub_BuiltData.uasset'
+[2023.06.15-16.47.33:131][979]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.15-16.47.33:131][979]LogContentValidation: Display: Validating World /Game/Maps/echoHub.echoHub
+[2023.06.15-16.47.33:131][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/echoHub_BuiltData.echoHub_BuiltData
