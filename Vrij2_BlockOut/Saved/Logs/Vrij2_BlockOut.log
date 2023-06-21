@@ -1112,3 +1112,442 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.21-15.24.31:218][740]LogHttp: Warning: 00000237C99C0100: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2023.06.21-15.24.31:218][740]LogHttp: Warning: 00000237C99C0100: libcurl info message cache 7 (Closing connection 0)
 [2023.06.21-15.24.31:218][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8097152-483B-3EED-0745-B2B3B43C5FC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1e36c5b74c94467fc83cd5939627c82b%7C020f1215705e44da927a85d26e95f386%7Cf9766571-ed39-4e55-a1b6-aee686f901b9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.21-15.33.05:523][ 96]Cmd: TRANSACTION UNDO
+[2023.06.21-15.33.05:534][ 96]LogEditorTransaction: Undo Move Actors
+[2023.06.21-15.33.05:544][ 96]LogMaterial: Display: Missing cached shadermap for Cloud_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 1CF615667445EB70E8B13822A2DFD9F782F0641B), compiling. 
+[2023.06.21-15.33.05:786][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.21-15.33.05:786][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2023.06.21-15.33.05:786][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.21-15.33.05:840][ 97]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.21-15.33.05:840][ 97]LogShaderCompilers: Display: Total job queries 102, among them cache hits 16 (15.69%)
+[2023.06.21-15.33.05:840][ 97]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 39 distinct outputs (62.90%)
+[2023.06.21-15.33.05:840][ 97]LogShaderCompilers: Display: RAM used: 0.35 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.05%
+[2023.06.21-15.33.05:840][ 97]LogShaderCompilers: Display: ================================================
+[2023.06.21-15.33.05:881][ 98]MaterialEditorStats: Base pass shader without light map: 105 instructions
+[2023.06.21-15.33.05:881][ 98]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.06.21-15.33.05:881][ 98]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.21-15.33.05:881][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2023.06.21-15.33.05:881][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.21-15.33.06:053][102]32166_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2023.06.21-15.33.28:487][733]LogNiagaraEditor: Saving and Compiling NiagaraEmitter Cloud_NE
+[2023.06.21-15.33.28:670][733]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NE20CFEA9C48F33DC5458188929A3DF7EE.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NE.uasset'
+[2023.06.21-15.33.28:681][733]AssetCheck: New page: Asset Save: Cloud_NE
+[2023.06.21-15.33.28:681][733]LogContentValidation: Display: Validating NiagaraEmitter /Game/fbx/Assets/Cloud/Cloud_NE.Cloud_NE
+[2023.06.21-15.33.39:158][954]Cmd: DELETE
+[2023.06.21-15.33.39:158][954]Cmd: ACTOR DELETE
+[2023.06.21-15.33.39:196][954]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.06.21-15.33.39:206][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.06.21-15.33.39:207][954]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2023.06.21-15.33.45:791][673]Cmd: DELETE
+[2023.06.21-15.33.45:791][673]Cmd: ACTOR DELETE
+[2023.06.21-15.33.45:813][673]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.06.21-15.33.45:818][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.21-15.33.45:820][673]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.06.21-15.33.47:353][819]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.33.47:702][825]34149_Cloud_NS_MessageLog: System successfully compiled.
+[2023.06.21-15.34.13:481][777]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NS20D205E2428B1C99E6B8BC8E29633899.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.34.13:493][777]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.34.13:493][777]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.34.46:125][523]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NSCE19ABFC41A7F3902699D6ADA865B87F.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.34.46:135][523]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.34.46:135][523]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.34.56:572][715]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NS494B5F2D4F19D8CCF8BC2FB44CCB52F7.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.34.56:583][715]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.34.56:583][715]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.35.23:697][833]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-15.35.24:718][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.06.21-15.35.38:214][918]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NS94705AC84FF7B9F4799F299B9D2B1C06.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.35.38:227][918]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.35.38:227][918]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.35.56:314][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.06.21-15.35.56:525][915]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/mainHubF3DADB784E012D7D6BCEF3BBAB481527.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/mainHub.umap'
+[2023.06.21-15.35.56:543][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/mainHub_BuiltData" FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/mainHub_BuiltData.uasset" SILENT=true
+[2023.06.21-15.35.56:556][915]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/mainHub_BuiltData991F97FF4E980B2850BCC59C3EB1FC18.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/mainHub_BuiltData.uasset'
+[2023.06.21-15.35.56:569][915]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.21-15.35.56:569][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/mainHub_BuiltData.mainHub_BuiltData
+[2023.06.21-15.35.56:569][915]LogContentValidation: Display: Validating World /Game/Maps/mainHub.mainHub
+[2023.06.21-15.35.57:597][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-15.35.57:608][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-15.35.57:608][ 29]PIE: New page: PIE session: mainHub (Jun 21, 2023, 7:35:57 PM)
+[2023.06.21-15.35.57:610][ 29]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.21-15.35.57:612][ 29]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.21-15.35.57:616][ 29]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_mainHub
+[2023.06.21-15.35.57:671][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055282s)
+[2023.06.21-15.35.57:672][ 29]LogAIModule: Creating AISystem for world mainHub
+[2023.06.21-15.35.57:673][ 29]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2023.06.21-15.35.57:673][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/mainHub.mainHub to /Game/Maps/UEDPIE_0_mainHub.mainHub (0.057658s)
+[2023.06.21-15.35.57:687][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.06.21-15.35.57:689][ 29]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-15.35.57:689][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-15.35.57:689][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-15.35.57:689][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-15.35.57:689][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-15.35.57:689][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-15.35.57:693][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-15.35.57:693][ 29]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-15.35.57:740][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.21-15.35.57:742][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-15.35.57:742][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-15.35.57:742][ 29]LogInit: FAudioDevice initialized.
+[2023.06.21-15.35.57:742][ 29]LogAudio: Display: Audio Device (ID: 2) registered with world 'mainHub'.
+[2023.06.21-15.35.57:757][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.21-15.35.57:765][ 29]LogWorld: Bringing World /Game/Maps/UEDPIE_0_mainHub.mainHub up for play (max tick rate 0) at 2023.06.21-17.35.57
+[2023.06.21-15.35.57:766][ 29]LogWorld: Bringing up level for play took: 0.003898
+[2023.06.21-15.35.57:766][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.06.21-15.35.57:780][ 29]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2023.06.21-15.35.57:801][ 29]PIE: Server logged in
+[2023.06.21-15.35.57:802][ 29]PIE: Play in editor total start time 0.199 seconds.
+[2023.06.21-15.35.57:868][ 30]LogD3D12RHI: Creating RTPSO with 136 shaders (0 cached, 1 new) took 10.38 ms. Compile time 8.09 ms, link time 2.03 ms.
+[2023.06.21-15.36.07:230][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.36.07:230][124]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_mainHub
+[2023.06.21-15.36.07:230][124]LogWorld: UWorld::CleanupWorld for mainHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.36.07:231][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.36.07:240][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-15.36.07:259][124]LogNiagaraEditor: onPieEnd
+[2023.06.21-15.36.07:261][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.36.07:266][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-15.36.07:266][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.36.07:267][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.36.07:277][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.36.07:279][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.06.21-15.36.07:305][125]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.06.21-15.38.04:828][451]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-15.38.04:840][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-15.38.04:840][451]PIE: New page: PIE session: mainHub (Jun 21, 2023, 7:38:04 PM)
+[2023.06.21-15.38.04:840][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_mainHub
+[2023.06.21-15.38.04:895][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055344s)
+[2023.06.21-15.38.04:895][451]LogAIModule: Creating AISystem for world mainHub
+[2023.06.21-15.38.04:896][451]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2023.06.21-15.38.04:896][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/mainHub.mainHub to /Game/Maps/UEDPIE_0_mainHub.mainHub (0.056670s)
+[2023.06.21-15.38.04:902][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.06.21-15.38.04:903][451]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-15.38.04:903][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-15.38.04:903][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-15.38.04:903][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-15.38.04:903][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-15.38.04:903][451]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-15.38.04:907][451]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-15.38.04:907][451]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-15.38.04:951][451]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.21-15.38.04:951][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-15.38.04:951][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-15.38.04:951][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-15.38.04:952][451]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-15.38.04:952][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-15.38.04:952][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.21-15.38.04:952][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-15.38.04:952][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-15.38.04:952][451]LogInit: FAudioDevice initialized.
+[2023.06.21-15.38.04:952][451]LogAudio: Display: Audio Device (ID: 3) registered with world 'mainHub'.
+[2023.06.21-15.38.04:963][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.21-15.38.04:965][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_mainHub.mainHub up for play (max tick rate 0) at 2023.06.21-17.38.04
+[2023.06.21-15.38.04:965][451]LogWorld: Bringing up level for play took: 0.002696
+[2023.06.21-15.38.04:966][451]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.06.21-15.38.04:970][451]PIE: Server logged in
+[2023.06.21-15.38.04:970][451]PIE: Play in editor total start time 0.134 seconds.
+[2023.06.21-15.38.17:190][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.38.17:190][120]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_mainHub
+[2023.06.21-15.38.17:190][120]LogWorld: UWorld::CleanupWorld for mainHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.38.17:191][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.38.17:202][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-15.38.17:210][120]LogNiagaraEditor: onPieEnd
+[2023.06.21-15.38.17:212][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.38.17:217][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-15.38.17:217][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.38.17:219][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.38.17:228][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.38.17:231][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.06.21-15.38.17:262][121]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.06.21-15.38.42:400][624]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NS81CCFF1445BBA0180F4161911C39040D.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.38.42:412][624]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.38.42:412][624]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.42.02:913][982]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NSE9A1FC9849B31EDEC29AA5AAA284D67D.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.42.02:926][982]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.42.02:926][982]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.42.04:072][ 55]LogSlate: Window 'Cloud_NS' being destroyed
+[2023.06.21-15.42.04:097][ 55]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.42.04:097][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.42.04:102][ 55]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.42.04:102][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.42.04:126][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.21-15.42.10:935][811]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2023.06.21-15.42.26:169][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.06.21-15.42.27:675][486]LogSlate: Window 'Save Content' being destroyed
+[2023.06.21-15.42.27:786][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.21-15.42.28:003][486]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/mainHub4A80DDE54B970375ADEB8293FE978D92.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/mainHub.umap'
+[2023.06.21-15.42.28:017][486]LogFileHelpers: Saving map 'mainHub' took 0.235
+[2023.06.21-15.42.28:391][486]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/choiceBHub.choiceBHub
+[2023.06.21-15.42.28:391][486]Cmd: MAP LOAD FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceBHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.21-15.42.28:391][486]LightingResults: New page: Lighting Build
+[2023.06.21-15.42.28:391][486]LoadErrors: New page: Loading map: choiceBHub.umap
+[2023.06.21-15.42.28:394][486]LogWorld: UWorld::CleanupWorld for mainHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.42.28:394][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.42.28:394][486]MapCheck: New page: Map Check
+[2023.06.21-15.42.28:394][486]LightingResults: New page: Lighting Build
+[2023.06.21-15.42.28:398][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-15.42.28:408][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.06.21-15.42.28:409][486]LogAudio: Display: Audio Device (ID: 1) registered with world 'choiceBHub'.
+[2023.06.21-15.42.28:481][486]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.21-15.42.28:481][486]LogAIModule: Creating AISystem for world choiceBHub
+[2023.06.21-15.42.28:490][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.06.21-15.42.28:502][486]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.21-15.42.28:502][486]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2023.06.21-15.42.28:502][486]LogFileHelpers: Loading map 'choiceBHub' took 0.111
+[2023.06.21-15.42.28:528][486]AssetCheck: New page: Asset Save: mainHub
+[2023.06.21-15.42.28:528][486]LogContentValidation: Display: Validating World /Game/Maps/mainHub.mainHub
+[2023.06.21-15.42.28:676][488]LogD3D12RHI: Creating RTPSO with 139 shaders (0 cached, 3 new) took 13.42 ms. Compile time 10.91 ms, link time 2.24 ms.
+[2023.06.21-15.42.28:731][489]LogD3D12RHI: Creating RTPSO with 140 shaders (0 cached, 1 new) took 10.58 ms. Compile time 8.62 ms, link time 1.73 ms.
+[2023.06.21-15.42.33:353][ 28]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2023.06.21-15.42.34:521][152]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.06.21-15.43.52:203][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.06.21-15.43.52:313][799]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceBHub84A5812C4D0C4BEBB71B71A725ABE011.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceBHub.umap'
+[2023.06.21-15.43.52:342][799]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceBHub_BuiltData7583BDFF4F591543B7CB0EA696260000.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceBHub_BuiltData.uasset'
+[2023.06.21-15.43.52:354][799]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.21-15.43.52:354][799]LogContentValidation: Display: Validating World /Game/Maps/choiceBHub.choiceBHub
+[2023.06.21-15.43.52:354][799]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/choiceBHub_BuiltData.choiceBHub_BuiltData
+[2023.06.21-15.44.01:733][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.21-15.44.02:007][357]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/choiceAHub.choiceAHub
+[2023.06.21-15.44.02:007][357]Cmd: MAP LOAD FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.21-15.44.02:007][357]LightingResults: New page: Lighting Build
+[2023.06.21-15.44.02:007][357]LoadErrors: New page: Loading map: choiceAHub.umap
+[2023.06.21-15.44.02:010][357]LogWorld: UWorld::CleanupWorld for choiceBHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.44.02:010][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.44.02:010][357]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2023.06.21-15.44.02:010][357]MapCheck: New page: Map Check
+[2023.06.21-15.44.02:010][357]LightingResults: New page: Lighting Build
+[2023.06.21-15.44.02:014][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-15.44.02:022][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.21-15.44.02:036][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.21-15.44.02:042][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.06.21-15.44.02:043][357]LogAudio: Display: Audio Device (ID: 1) registered with world 'choiceAHub'.
+[2023.06.21-15.44.02:144][357]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.21-15.44.02:144][357]LogAIModule: Creating AISystem for world choiceAHub
+[2023.06.21-15.44.02:153][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.06.21-15.44.02:166][357]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.21-15.44.02:166][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2023.06.21-15.44.02:166][357]LogFileHelpers: Loading map 'choiceAHub' took 0.159
+[2023.06.21-15.44.37:320][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.06.21-15.44.39:038][449]LogSlate: Window 'Save Content' being destroyed
+[2023.06.21-15.44.39:155][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.21-15.44.39:287][449]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/choiceAHub17AEDBC04F1B46F02A2D909BB84FA5EE.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/choiceAHub.umap'
+[2023.06.21-15.44.39:301][449]LogFileHelpers: Saving map 'choiceAHub' took 0.151
+[2023.06.21-15.44.40:083][449]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/echoHub.echoHub
+[2023.06.21-15.44.40:083][449]Cmd: MAP LOAD FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.21-15.44.40:084][449]LightingResults: New page: Lighting Build
+[2023.06.21-15.44.40:084][449]LoadErrors: New page: Loading map: echoHub.umap
+[2023.06.21-15.44.40:087][449]LogWorld: UWorld::CleanupWorld for choiceAHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.44.40:087][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.44.40:087][449]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2023.06.21-15.44.40:087][449]MapCheck: New page: Map Check
+[2023.06.21-15.44.40:087][449]LightingResults: New page: Lighting Build
+[2023.06.21-15.44.40:093][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-15.44.40:098][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.06.21-15.44.40:099][449]LogAudio: Display: Audio Device (ID: 1) registered with world 'echoHub'.
+[2023.06.21-15.44.40:261][449]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.21-15.44.40:262][449]LogAIModule: Creating AISystem for world echoHub
+[2023.06.21-15.44.40:278][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.06.21-15.44.40:292][449]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.21-15.44.40:292][449]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2023.06.21-15.44.40:292][449]LogFileHelpers: Loading map 'echoHub' took 0.209
+[2023.06.21-15.44.40:353][449]AssetCheck: New page: Asset Save: choiceAHub
+[2023.06.21-15.44.40:353][449]LogContentValidation: Display: Validating World /Game/Maps/choiceAHub.choiceAHub
+[2023.06.21-15.45.06:923][ 30]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.06.21-15.45.16:985][632]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.06.21-15.47.17:989][847]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.47.18:381][853]34149_Cloud_NS_MessageLog: System successfully compiled.
+[2023.06.21-15.47.56:615][885]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-15.47.56:624][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-15.47.56:625][885]PIE: New page: PIE session: echoHub (Jun 21, 2023, 7:47:56 PM)
+[2023.06.21-15.47.56:625][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_echoHub
+[2023.06.21-15.47.56:773][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147770s)
+[2023.06.21-15.47.56:774][885]LogAIModule: Creating AISystem for world echoHub
+[2023.06.21-15.47.56:774][885]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2023.06.21-15.47.56:774][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/echoHub.echoHub to /Game/Maps/UEDPIE_0_echoHub.echoHub (0.149578s)
+[2023.06.21-15.47.56:797][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.06.21-15.47.56:800][885]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-15.47.56:800][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-15.47.56:800][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-15.47.56:800][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-15.47.56:800][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-15.47.56:800][885]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-15.47.56:804][885]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-15.47.56:804][885]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-15.47.56:848][885]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.21-15.47.56:848][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-15.47.56:848][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-15.47.56:848][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-15.47.56:849][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-15.47.56:849][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-15.47.56:849][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.21-15.47.56:849][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-15.47.56:850][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-15.47.56:850][885]LogInit: FAudioDevice initialized.
+[2023.06.21-15.47.56:850][885]LogAudio: Display: Audio Device (ID: 4) registered with world 'echoHub'.
+[2023.06.21-15.47.56:857][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.21-15.47.56:865][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_echoHub.echoHub up for play (max tick rate 60) at 2023.06.21-17.47.56
+[2023.06.21-15.47.56:866][885]LogWorld: Bringing up level for play took: 0.008211
+[2023.06.21-15.47.56:866][885]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.06.21-15.47.56:871][885]PIE: Server logged in
+[2023.06.21-15.47.56:872][885]PIE: Play in editor total start time 0.25 seconds.
+[2023.06.21-15.48.01:745][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.48.01:745][168]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_echoHub
+[2023.06.21-15.48.01:745][168]LogWorld: UWorld::CleanupWorld for echoHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.48.01:746][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.01:758][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-15.48.01:765][168]LogNiagaraEditor: onPieEnd
+[2023.06.21-15.48.01:767][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.01:772][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.21-15.48.01:773][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.48.01:773][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.48.01:783][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.48.01:797][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.06.21-15.48.01:839][169]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.06.21-15.48.11:492][731]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-15.48.11:501][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-15.48.11:501][731]PIE: New page: PIE session: echoHub (Jun 21, 2023, 7:48:11 PM)
+[2023.06.21-15.48.11:501][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_echoHub
+[2023.06.21-15.48.11:625][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123365s)
+[2023.06.21-15.48.11:626][731]LogAIModule: Creating AISystem for world echoHub
+[2023.06.21-15.48.11:626][731]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2023.06.21-15.48.11:626][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/echoHub.echoHub to /Game/Maps/UEDPIE_0_echoHub.echoHub (0.124725s)
+[2023.06.21-15.48.11:632][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.06.21-15.48.11:633][731]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-15.48.11:633][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-15.48.11:633][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-15.48.11:633][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-15.48.11:633][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-15.48.11:633][731]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-15.48.11:636][731]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-15.48.11:636][731]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-15.48.11:681][731]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.21-15.48.11:681][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-15.48.11:681][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-15.48.11:681][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-15.48.11:682][731]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-15.48.11:682][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-15.48.11:682][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.21-15.48.11:683][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-15.48.11:683][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-15.48.11:683][731]LogInit: FAudioDevice initialized.
+[2023.06.21-15.48.11:683][731]LogAudio: Display: Audio Device (ID: 5) registered with world 'echoHub'.
+[2023.06.21-15.48.11:694][731]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.21-15.48.11:701][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_echoHub.echoHub up for play (max tick rate 60) at 2023.06.21-17.48.11
+[2023.06.21-15.48.11:702][731]LogWorld: Bringing up level for play took: 0.007804
+[2023.06.21-15.48.11:703][731]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.06.21-15.48.11:705][731]PIE: Server logged in
+[2023.06.21-15.48.11:707][731]PIE: Play in editor total start time 0.208 seconds.
+[2023.06.21-15.48.22:909][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.48.22:909][398]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_echoHub
+[2023.06.21-15.48.22:920][398]LogWorld: UWorld::CleanupWorld for echoHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.48.22:921][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.22:929][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-15.48.22:936][398]LogNiagaraEditor: onPieEnd
+[2023.06.21-15.48.22:938][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.22:945][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.48.22:945][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.48.22:946][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.48.22:961][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.06.21-15.48.23:010][399]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.06.21-15.48.25:883][544]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/Cloud_NS21A6A4A846A0E05FB977A7A7DFE728FD.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/fbx/Assets/Cloud/Cloud_NS.uasset'
+[2023.06.21-15.48.25:897][544]AssetCheck: New page: Asset Save: Cloud_NS
+[2023.06.21-15.48.25:897][544]LogContentValidation: Display: Validating NiagaraSystem /Game/fbx/Assets/Cloud/Cloud_NS.Cloud_NS
+[2023.06.21-15.48.26:814][598]LogSlate: Window 'Cloud_NS' being destroyed
+[2023.06.21-15.48.26:837][598]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.48.26:837][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.26:842][598]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.48.26:842][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.26:866][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.06.21-15.48.27:819][653]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.21-15.48.27:827][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.21-15.48.27:827][653]PIE: New page: PIE session: echoHub (Jun 21, 2023, 7:48:27 PM)
+[2023.06.21-15.48.27:828][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_echoHub
+[2023.06.21-15.48.27:951][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122350s)
+[2023.06.21-15.48.27:952][653]LogAIModule: Creating AISystem for world echoHub
+[2023.06.21-15.48.27:952][653]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2023.06.21-15.48.27:952][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/echoHub.echoHub to /Game/Maps/UEDPIE_0_echoHub.echoHub (0.123673s)
+[2023.06.21-15.48.27:973][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.06.21-15.48.27:974][653]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.21-15.48.27:974][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.21-15.48.27:974][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.21-15.48.27:975][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.21-15.48.27:975][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.21-15.48.27:975][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.21-15.48.27:975][653]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.21-15.48.27:977][653]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.21-15.48.27:977][653]LogAudioMixer: Display: 1: FrontRight
+[2023.06.21-15.48.28:020][653]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.21-15.48.28:022][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.21-15.48.28:022][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.21-15.48.28:022][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.21-15.48.28:022][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.21-15.48.28:022][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.21-15.48.28:022][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.21-15.48.28:023][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.21-15.48.28:023][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.21-15.48.28:023][653]LogInit: FAudioDevice initialized.
+[2023.06.21-15.48.28:023][653]LogAudio: Display: Audio Device (ID: 6) registered with world 'echoHub'.
+[2023.06.21-15.48.28:033][653]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.21-15.48.28:039][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_echoHub.echoHub up for play (max tick rate 60) at 2023.06.21-17.48.28
+[2023.06.21-15.48.28:040][653]LogWorld: Bringing up level for play took: 0.007064
+[2023.06.21-15.48.28:040][653]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.06.21-15.48.28:044][653]PIE: Server logged in
+[2023.06.21-15.48.28:045][653]PIE: Play in editor total start time 0.219 seconds.
+[2023.06.21-15.48.42:407][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.48.42:407][ 75]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_echoHub
+[2023.06.21-15.48.42:407][ 75]LogWorld: UWorld::CleanupWorld for echoHub, bSessionEnded=true, bCleanupResources=true
+[2023.06.21-15.48.42:408][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.42:418][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.21-15.48.42:427][ 75]LogNiagaraEditor: onPieEnd
+[2023.06.21-15.48.42:429][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.21-15.48.42:432][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.21-15.48.42:434][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.48.42:436][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.21-15.48.42:451][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.06.21-15.48.42:489][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.06.21-15.48.43:264][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.06.21-15.48.43:746][118]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/echoHub3110AB31480E32065559EFA0B46C59E7.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub.umap'
+[2023.06.21-15.48.43:764][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/echoHub_BuiltData" FILE="../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub_BuiltData.uasset" SILENT=true
+[2023.06.21-15.48.43:777][118]LogSavePackage: Moving '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Saved/echoHub_BuiltData476BD67349E51CFBBA1EE89833A47DEA.tmp' to '../../../../../../../Users/afk05/school/unity projects/ProjectVrij-Git/Vrij2_BlockOut/Content/Maps/echoHub_BuiltData.uasset'
+[2023.06.21-15.48.43:788][118]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.21-15.48.43:788][118]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/echoHub_BuiltData.echoHub_BuiltData
+[2023.06.21-15.48.43:788][118]LogContentValidation: Display: Validating World /Game/Maps/echoHub.echoHub
